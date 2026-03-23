@@ -1,0 +1,6 @@
+node_modules/
+dist/
+reports/
+*.js
+*.js.map
+!jest.config.js

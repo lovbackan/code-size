@@ -1,0 +1,11 @@
+{
+  "name": "@snrgy/code-size",
+  "version": "0.1.0",
+  "description": "Objective codebase size measurement with transparent methodology",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts"
+  },
+  "keywords": ["codebase", "metrics", "loc", "lines-of-code", "analysis"],
+  "license": "MIT"
+}
